@@ -1,0 +1,11 @@
+@font-face{
+  font-family: dos;
+  src: url("https://aghastmuffin.github.io/extrafonts/ModernDOS8x16.ttf")
+}
+body{
+  background-color: black;
+}
+.dos{
+  font-family: dos;
+  color: white;
+}
